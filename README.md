@@ -1,4 +1,4 @@
 # Login-Authenticate
 
 Valid Username = admin
-ValiPassword = password
+Valid Password = password
